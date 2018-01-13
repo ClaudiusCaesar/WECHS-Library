@@ -1,0 +1,7 @@
+    Name      Fines 
+Eli Stafford  $0.20 
+
+
+
+    Name          Book      Day Back    Days Out
+Eli Stafford  I, Claudius  01/27/2018  1 Day Late
